@@ -1,4 +1,4 @@
-![Screenshot 2025-02-08 224057](https://github.com/user-attachments/assets/37ea7cc9-5676-4b6c-b986-91af0fcb8eaf)# Shopzy - A Shopping Cart
+# Shopzy - A Shopping Cart
 Shopzy is a modern shopping cart application built with **React, Redux, and Tailwind CSS**. It is designed to provide users with a seamless and intuitive shopping experience, featuring responsiveness and ease of use.
 
 
