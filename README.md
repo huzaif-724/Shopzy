@@ -10,3 +10,22 @@ Shopzy is a modern shopping cart application built with **React, Redux, and Tail
 ✅ **Product Listing** – Displays products dynamically.  
 ✅ **Responsive Design** – Fully optimized for all screen sizes.  
 ✅ **Performance Optimized** – Fast and lightweight for smooth browsing.
+
+## Installation
+
+1. **Clone the repository**
+```sh
+git clone https://github.com/yourusername/shopzy.git
+cd shopzy
+```
+
+2. **Install dependencies**
+```sh
+npm install
+
+```
+
+3. **Run the development server**
+```sh
+npm start
+```
