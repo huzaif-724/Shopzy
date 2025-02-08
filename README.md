@@ -1,2 +1,12 @@
 # Shopzy - A Shopping Cart
 Shopzy is a modern shopping cart application built with **React, Redux, and Tailwind CSS**. It is designed to provide users with a seamless and intuitive shopping experience, featuring responsiveness and ease of use.
+
+
+## Features
+
+✅ **User-friendly Interface** – Clean and modern UI built with Tailwind CSS.  
+✅ **State Management** – Utilizes Redux for efficient state handling.  
+✅ **Shopping Cart Functionality** – Add, remove, and update products in the cart.  
+✅ **Product Listing** – Displays products dynamically.  
+✅ **Responsive Design** – Fully optimized for all screen sizes.  
+✅ **Performance Optimized** – Fast and lightweight for smooth browsing.
